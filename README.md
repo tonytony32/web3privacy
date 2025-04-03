@@ -493,7 +493,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Züs](https://zus.network) | a high performance storage network powering limitless applications. Its a new way to earn a passive income from storage | [Github](https://github.com/0chain)  | - | - | - |
 | [SerenityShield](https://serenityshield.io) | The Leading Sensitive Data Storage Solution on Blockchain. Security, Privacy and Digital Rights for Everyone | - | - | - | - |
 | [TransferChain](https://transferchain.io) | Enables users to store, process and share their data while ensuring its privacy and security | [Github](https://github.com/TransferChain) | - | - | - |
-| [Swarm](https://www.ethswarm.org) | a decentralised data storage and distribution technology. Ready to power the next generation of censorship-resistant, unstoppable, serverless dapps | [Github](https://github.com/ethersphere/swarm-cli) | - | - | - |
+| [Swarm](https://www.ethswarm.org) | a decentralised data storage and distribution technology. Ready to power the next generation of censorship-resistant, permissionless, serverless dapps | ([GitHub](https://github.com/ethersphere/swarm-cli)) | mainnet, june 2021 | multichain | [Public](https://www.ethswarm.org/foundation) |
 | [DJIB](https://djib.io) | DJIB is the next generation Web3 storage | [Github](https://github.com/Djib-io) | - | - | - |
 | [Crust](https://crust.network) | Web3.0 Storage for the Metaverse | [Github](https://github.com/crustio) | - | - | - |
 | [Fileverse](https://fileverse.io) | On-chain people and communities deserve on-chain tools for private communication and collaboration. | [Github](https://github.com/fileverse) | - | - | - |

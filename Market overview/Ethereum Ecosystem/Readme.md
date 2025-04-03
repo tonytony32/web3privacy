@@ -291,10 +291,10 @@ Segmentation will help to split "native" projects & broader actors serving diffe
 | [Helios](https://github.com/a16z/helios) | Light client | ([GitHub](https://github.com/a16z/helios)) | - | - | - | - |
 
 ## Storage
-| Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
-| ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [Swarm](https://www.ethswarm.org) | a decentralised data storage and distribution technology. Ready to power the next generation of censorship-resistant, unstoppable, serverless dapps | ([GitHub](https://github.com/ethersphere/swarm-cli)) | - | - | - |
-| [Fileverse](https://fileverse.io) | On-chain people and communities deserve on-chain tools for private communication and collaboration. | ([GitHub](https://github.com/fileverse)) | - | - | - |
+| Project  | Description | GitHub | Product-readiness | Token | Ecosystem | Team |
+| ------------- | ------------- |------------- |------------- | ------------- | ------------- | ------------- |
+| [Swarm](https://www.ethswarm.org) | a decentralised data storage and distribution technology. Ready to power the next generation of censorship-resistant, permissionless, serverless dapps | ([GitHub](https://github.com/ethersphere/swarm-cli)) | mainnet, june 2021 | [BZZ](https://www.ethswarm.org/get-bzz) | multichain | [Public](https://www.ethswarm.org/foundation) |
+| [Fileverse](https://fileverse.io) | On-chain people and communities deserve on-chain tools for private communication and collaboration. | ([GitHub](https://github.com/fileverse)) | - | - | - | - |
 
 ## dApps
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/DAPPS.png?raw=true)
